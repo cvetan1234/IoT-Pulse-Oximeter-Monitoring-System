@@ -184,7 +184,7 @@ MQTT broker addresses and other environment-specific connection settings may nee
 
 This project demonstrates an end-to-end **Internet of Things (IoT)** application combining embedded sensor acquisition, messaging, data processing, mobile visualization, and local data persistence.
 
-## Author
+## Authors
 
-**Tsvetan Stanchev**  
+**Maria Lyoteva, Tsvetan Stanchev**  
 Ostbayerische Technische Hochschule Amberg-Weiden (OTH Amberg-Weiden)
